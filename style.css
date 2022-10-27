@@ -16,7 +16,7 @@ img{
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 56%;
+    width: 48%;
     animation: 1s animate ease-in-out;
 }
 @keyframes animate{
